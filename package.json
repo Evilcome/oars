@@ -1,0 +1,35 @@
+{
+  "name": "oars",
+  "version": "0.0.2",
+  "description": "Making node-restify more easy to use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Evilcome/oars.git"
+  },
+  "keywords": [
+    "restify",
+    "express",
+    "global",
+    "multi-version"
+  ],
+  "author": "Evilcome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evilcome/oars/issues"
+  },
+  "homepage": "https://github.com/Evilcome/oars",
+  "dependencies": {
+    "async": "^0.9.0",
+    "colors": "^1.0.3",
+    "lodash": "^3.6.0",
+    "restify": "^3.0.1",
+    "restify-logger": "^2.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
+}
