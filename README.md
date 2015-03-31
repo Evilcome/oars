@@ -1,18 +1,21 @@
 # oars
 A nodejs module making node-restify more easy to use.
 
-Inspired by [Sailsjs](http://sailsjs.org). People can use **Configuration** making their [restify](http://restifyjs.com) server.
+Inspired by [Oarsjs](http://oarsjs.org). People can use **Configuration** making their [restify](http://restifyjs.com) server.
+
+Feel **Honorable** to contribute your idea.
 
 ## Goal
 
 - [ ] Globals Variable
-- [ ] Logging
+- [*] Logging
 - [ ] Middleware
 - [ ] Policies
 - [ ] Routes
 - [ ] Security
 - [ ] Services
 - [ ] Oars Generator 
+- [ ] API Document
 
 ### Globals Variable
 
@@ -20,7 +23,7 @@ Global variables will be exposed automatically by Oars. Default with [async](), 
 
 ### Logging
 
-Make your server with colorful, levelful logger.
+Make your server with more detail logger.
 
 ### Middleware
 
