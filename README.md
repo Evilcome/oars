@@ -7,7 +7,7 @@ Feel **Honorable** to contribute your idea.
 
 ## Goal
 
-- [ ] Globals Variable
+- [*] Globals Variable
 - [*] Logging
 - [ ] Middleware
 - [ ] Policies

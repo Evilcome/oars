@@ -25,6 +25,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "captains-log": "^0.11.11",
+    "dotenv": "^1.1.0",
     "lodash": "^3.6.0",
     "merge-defaults": "^0.2.1",
     "restify": "^3.0.1",
