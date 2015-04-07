@@ -5,6 +5,8 @@ Inspired by [Oarsjs](http://oarsjs.org). People can use **Configuration** making
 
 Feel **Honorable** to contribute your idea.
 
+**IMPORTANT** version above 0.1.0 shall be stable.
+
 ## Goal
 
 - [*] Globals Variable
@@ -12,7 +14,6 @@ Feel **Honorable** to contribute your idea.
 - [ ] Middleware
 - [ ] Policies
 - [ ] Routes
-- [ ] Security
 - [ ] Services
 - [ ] Oars Generator 
 - [ ] API Document
