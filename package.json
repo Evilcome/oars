@@ -1,7 +1,7 @@
 {
   "name": "oars",
   "version": "0.0.3",
-  "description": "Making node-restify more easy to use.",
+  "description": "Making node-restify more easy to use, inspired by Sailsjs.",
   "main": "./lib/index.js",
   "scripts": {
     "test": "make test"
@@ -11,6 +11,8 @@
     "url": "https://github.com/Evilcome/oars.git"
   },
   "keywords": [
+    "oars",
+    "sails",
     "restify",
     "express",
     "global",
@@ -29,8 +31,7 @@
     "lodash": "^3.6.0",
     "merge-defaults": "^0.2.1",
     "restify": "^3.0.1",
-    "sails-build-dictionary": "^0.10.1",
-    "sails-util": "^0.10.4"
+    "sails-build-dictionary": "^0.10.1"
   },
   "devDependencies": {
     "mocha": "^2.2.1"
