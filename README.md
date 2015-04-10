@@ -1,7 +1,7 @@
 # oars
 A nodejs module making node-restify more easy to use.
 
-Inspired by [Oarsjs](http://oarsjs.org). People can use **Configuration** making their [restify](http://restifyjs.com) server.
+Inspired by [Sailsjs](http://sailsjs.org). People can use **Configuration** making their [restify](http://restifyjs.com) server.
 
 Feel **Honorable** to contribute your idea.
 
