@@ -11,11 +11,11 @@ Feel **Honorable** to contribute your idea.
 
 - [*] Globals Variable
 - [*] Logging
-- [ ] Middleware
+- [*] Middleware
 - [ ] Policies
-- [ ] Routes
+- [*] Routes
 - [ ] Services
-- [ ] Oars Generator 
+- [*] Oars Generator 
 - [ ] API Document
 
 ### Globals Variable
