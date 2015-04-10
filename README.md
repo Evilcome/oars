@@ -9,13 +9,13 @@ Feel **Honorable** to contribute your idea.
 
 ## Goal
 
-- [ * ] Globals Variable
-- [ * ] Logging
-- [ * ] Middleware
+- [*] Globals Variable
+- [*] Logging
+- [*] Middleware
 - [ ] Policies
-- [ * ] Routes
+- [*] Routes
 - [ ] Services
-- [ * ] Oars Generator 
+- [*] Oars Generator 
 - [ ] API Document
 
 ### Globals Variable
