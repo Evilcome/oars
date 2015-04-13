@@ -12,9 +12,9 @@ Feel **Honorable** to contribute your idea.
 - [x] Globals Variable
 - [x] Logging
 - [x] Middleware
-- [ ] Policies
+- [x] Policies
 - [x] Routes
-- [ ] Services
+- [x] Services
 - [x] Oars Generator 
 - [ ] API Document
 
