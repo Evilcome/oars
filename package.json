@@ -1,6 +1,6 @@
 {
   "name": "oars",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Making node-restify more easy to use, inspired by Sailsjs.",
   "main": "./lib/index.js",
   "scripts": {
