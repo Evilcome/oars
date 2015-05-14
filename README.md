@@ -7,6 +7,10 @@ Feel **Honorable** to contribute your idea.
 
 **IMPORTANT** version above 0.1.0 shall be stable.
 
+## Get Started
+
+User [Oars Generator](https://github.com/Evilcome/generator-oars) create a sample.
+
 ## Goal
 
 - [x] Globals Variable
